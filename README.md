@@ -210,10 +210,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Feel free to reach out for collaborations or opportunities!
 
-- **Portfolio:** [Your Website URL]
-- **LinkedIn:** [Your LinkedIn URL]
-- **GitHub:** [Your GitHub URL]
-- **Email:** [Your Email]
+- **Portfolio:** https://portfolio-ten-swart-67.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/satyapal-raj-/
+- **Email:** satyapalraj49@gmail.com
 
 ---
 
