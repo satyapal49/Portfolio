@@ -121,7 +121,7 @@ export const projects = [
     image: projectImg5,
     tech: ["Socket.IO", "React", "Node.js", "MongoDB"],
     icons: [FaReact, FaNodeJs, FaDatabase ],
-    demo: "#",
+    demo: "https://v0-real-time-text-editor-theta.vercel.app/",
     code: "#",
   },
   {
