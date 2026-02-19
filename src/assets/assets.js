@@ -112,8 +112,8 @@ export const projects = [
     image: projectImg4,
     tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
     icons: [FaReact, FaCloud],
-    demo: "https://portfolio-teal-rho-37.vercel.app/",
-    code: "https://github.com/satyapal49/Portfolio/",
+    demo: "#",
+    code: "#",
   },
   {
     title: "Chat App",
@@ -121,7 +121,7 @@ export const projects = [
     image: projectImg5,
     tech: ["Socket.IO", "React", "Node.js", "MongoDB"],
     icons: [FaReact, FaNodeJs, FaDatabase ],
-    demo: "https://v0-real-time-text-editor-theta.vercel.app/",
+    demo: "#",
     code: "#",
   },
   {
