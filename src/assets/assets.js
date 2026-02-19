@@ -113,7 +113,7 @@ export const projects = [
     tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
     icons: [FaReact, FaCloud],
     demo: "https://portfolio-teal-rho-37.vercel.app/",
-    code: "https://github.com/satyapal49/Portfolio",
+    code: "https://github.com/satyapal49/Portfolio/",
   },
   {
     title: "Chat App",
